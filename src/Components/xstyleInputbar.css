@@ -1,0 +1,13 @@
+#theBar {
+  background-color: rgba(55,55,55,.5);
+  display: none;
+  justify-content: center;
+  margin-bottom: 2vh;
+}
+
+#theInput {
+  font-size: 22px;
+  margin: 18px;
+  border: solid 3px #C0B283;
+}
+

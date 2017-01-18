@@ -1,0 +1,12 @@
+#score{
+  display: none;
+  height: 5vh;
+  width: 20vw;
+  margin-top: 4vh;
+  margin-left: 80vw;
+  color: #C0B283;
+}
+
+p{
+  font-size: 22px;
+}

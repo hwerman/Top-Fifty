@@ -1,0 +1,34 @@
+#final{
+  height: 70vh;
+  width: 70vw;
+  background-color: #DCD0C0;
+  color: #373737;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  padding top: 8vh;
+}
+
+#finalKid{
+  height: auto;
+  width: 60vw;
+  background-color: #DCD0C0;
+  color: #373737;
+  display: flex;
+  flex-direction: column;
+/*  align-items: center;
+  align-content: center;*/
+  justify-content: center;
+  margin-top: 5vh;
+  flex-wrap: wrap;
+}
+
+.coverAl{
+  height: 20px;
+  width: 20px;
+  position: relative;
+  align-items: center;
+  border: 1px #373737 solid;
+}

@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS skyartists;
+
+BEGIN;
+
+CREATE TABLE skyartists(
+  id SERIAL PRIMARY KEY,
+  name VARCHAR NOT NULL,
+  itunesid INT NOT NULL
+);
+
+COMMIT;

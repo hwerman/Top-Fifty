@@ -1,0 +1,46 @@
+/*
+DCD0C0
+C0B283
+F4F4F4
+373737*/
+
+*{
+  font-family: 'Pompiere', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-family: 'Unica One', sans-serif;
+  color: #F4F4F4;
+  background-color: #DCD0C0;
+  width: 100vw;
+}
+
+a{
+  font-family: 'Unica One', sans-serif;
+  color: #F4F4F4;
+  background-color: #DCD0C0;
+  width: 100vw;
+  text-decoration: none;
+}
+
+#box{
+  height: 100vh;
+  width: 100vw;
+  background-color: #373737;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../../mic.jpg');
+  background-size: cover;
+}
+/*
+#containerMain{
+  background-image: url('../../mic.jpg');
+  background-size: cover;
+}
+*/
+h4{
+  text-align: center;
+}

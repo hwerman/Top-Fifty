@@ -1,0 +1,59 @@
+#welc{
+  height: 90vh;
+  width: 90vw;
+/*  background-color: #373737;
+*/  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  color: #F4F4F4;
+/*  animation: nowthis 2s linear;
+*/}
+/*
+@keyframes nowthis{
+  from {
+    margin-top: 300px;
+  } to {
+    margin-top: 0px;
+  }
+}*/
+
+/*
+DCD0C0
+C0B283
+F4F4F4
+373737*/
+
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 2px;
+}
+
+h3{
+  font-size: 24px;
+/*  background-color: #373737;
+*/}
+
+
+#txt{
+/*  background-color: #373737;
+*/  color: #F4F4F4;
+}
+
+#title{
+  color: #C0B283;
+/*  background-color: #373737;
+*/}
+
+#begin{
+  background-color: #DCD0C0;
+  height: 44px;
+  width: 72px;
+  font-size: 12px;
+  margin-top: 12px;
+  border: solid 2px #C0B283;
+  color: #373737;
+  font-family: 'Unica One';
+  cursor: pointer;
+}
